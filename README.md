@@ -10,6 +10,7 @@ Building small, focused open source tools. Based in Indonesia 🇮🇩
 | [bundlecheck](https://github.com/srmdn/bundlecheck) | Check the bundle size of any npm package before you install it |
 | [regexplain](https://github.com/srmdn/regexplain) | Paste any regex — get it color-coded and explained in plain English |
 | [devscolors](https://github.com/srmdn/devscolors) | Paste any hex, rgb, or hsl — get color name, Tailwind class, CSS var, contrast ratio, shades & tints |
+| [cronhuman](https://github.com/srmdn/cronhuman) | Paste any cron expression — get a human-readable description and next 5 scheduled run times |
 
 ## Stack
 
