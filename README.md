@@ -9,6 +9,7 @@ Building small, focused open source tools. Based in Indonesia 🇮🇩
 | [overlap](https://github.com/srmdn/overlap) | Timezone-aware meeting helper — see working hours overlap across global teams |
 | [bundlecheck](https://github.com/srmdn/bundlecheck) | Check the bundle size of any npm package before you install it |
 | [regexplain](https://github.com/srmdn/regexplain) | Paste any regex — get it color-coded and explained in plain English |
+| [devscolors](https://github.com/srmdn/devscolors) | Paste any hex, rgb, or hsl — get color name, Tailwind class, CSS var, contrast ratio, shades & tints |
 
 ## Stack
 
