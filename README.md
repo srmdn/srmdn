@@ -12,6 +12,8 @@ Building small, focused open source tools. Based in Indonesia 🇮🇩
 | [devscolors](https://github.com/srmdn/devscolors) | Paste any hex, rgb, or hsl — get color name, Tailwind class, CSS var, contrast ratio, shades & tints |
 | [cronhuman](https://github.com/srmdn/cronhuman) | Paste any cron expression — get a human-readable description and next 5 scheduled run times |
 | [httpstatus](https://github.com/srmdn/httpstatus) | Search any HTTP status code — get explanation, when to use it, common mistakes, and a real-world example |
+| [semvercheck](https://github.com/srmdn/semvercheck) | Paste any npm version range — get a plain English explanation, resolved form, and sample version grid |
+| [jwtdecode](https://github.com/srmdn/jwtdecode) | Paste any JWT token — get decoded header, annotated payload claims, and expiry status |
 
 ## Stack
 
