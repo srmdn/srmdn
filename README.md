@@ -15,6 +15,7 @@ Vibe coding with [Claude](https://claude.ai).
 | [httpstatus](https://github.com/srmdn/httpstatus) | Search any HTTP status code — get explanation, when to use it, common mistakes, and a real-world example |
 | [semvercheck](https://github.com/srmdn/semvercheck) | Paste any npm version range — get a plain English explanation, resolved form, and sample version grid |
 | [jwtdecode](https://github.com/srmdn/jwtdecode) | Paste any JWT token — get decoded header, annotated payload claims, and expiry status |
+| [chmodhelp](https://github.com/srmdn/chmodhelp) | Paste any Unix permission (755, -rwxr-xr-x) — get a visual grid and plain English breakdown |
 
 ## Stack
 
