@@ -16,6 +16,7 @@ Vibe coding with [Claude](https://claude.ai).
 | [semvercheck](https://github.com/srmdn/semvercheck) | Paste any npm version range — get a plain English explanation, resolved form, and sample version grid |
 | [jwtdecode](https://github.com/srmdn/jwtdecode) | Paste any JWT token — get decoded header, annotated payload claims, and expiry status |
 | [chmodhelp](https://github.com/srmdn/chmodhelp) | Paste any Unix permission (755, -rwxr-xr-x) — get a visual grid and plain English breakdown |
+| [headercheck](https://github.com/srmdn/headercheck) | Paste any HTTP response headers — get each one categorized, explained, and decoded |
 
 ## Stack
 
