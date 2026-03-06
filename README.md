@@ -17,6 +17,7 @@ Vibe coding with [Claude](https://claude.ai).
 | [jwtdecode](https://github.com/srmdn/jwtdecode) | Paste any JWT token — get decoded header, annotated payload claims, and expiry status |
 | [chmodhelp](https://github.com/srmdn/chmodhelp) | Paste any Unix permission (755, -rwxr-xr-x) — get a visual grid and plain English breakdown |
 | [headercheck](https://github.com/srmdn/headercheck) | Paste any HTTP response headers — get each one categorized, explained, and decoded |
+| [mimecheck](https://github.com/srmdn/mimecheck) | Search any MIME type or file extension — get description, browser support, and usage examples |
 
 ## Stack
 
