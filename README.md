@@ -31,4 +31,4 @@ Vibe coding with [Claude](https://claude.ai).
 
 ---
 
-[srmdn.com](https://srmdn.com)
+DevOps & sysadmin work lives on [GitLab](https://gitlab.com/srmdn) · [srmdn.com](https://srmdn.com)
