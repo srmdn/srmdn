@@ -1,6 +1,6 @@
 # Said Ramadhan
 
-Building small, focused open source tools. Based in Indonesia 🇮🇩
+Building web tools and apps. Based in Indonesia 🇮🇩
 Vibe coding with [Claude](https://claude.ai).
 
 ## Projects
