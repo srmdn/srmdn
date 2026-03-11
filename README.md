@@ -18,6 +18,7 @@ Vibe coding with [Claude](https://claude.ai).
 | [chmodhelp](https://github.com/srmdn/chmodhelp) | Paste any Unix permission (755, -rwxr-xr-x) — get a visual grid and plain English breakdown |
 | [headercheck](https://github.com/srmdn/headercheck) | Paste any HTTP response headers — get each one categorized, explained, and decoded |
 | [mimecheck](https://github.com/srmdn/mimecheck) | Search any MIME type or file extension — get description, browser support, and usage examples |
+| [plink](https://github.com/srmdn/plink) | Self-hosted personal link shortener — clean slugs, click analytics, QR codes, single Go binary |
 
 ## Stack
 
@@ -27,6 +28,7 @@ Vibe coding with [Claude](https://claude.ai).
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
 ---
