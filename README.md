@@ -1,12 +1,13 @@
 # Said Ramadhan
 
 Building web tools and apps. Based in Indonesia 🇮🇩
-Vibe coding with [Claude](https://claude.ai).
+Vibe coding with [Claude](https://claude.ai) and Codex.
 
 ## Projects
 
 | Project | Description |
 |---------|-------------|
+| [hifzlink](https://github.com/srmdn/hifzlink) | Open source Quran murojaah tool to find and compare mutashabihat verses with a simple Go + SQLite stack |
 | [overlap](https://github.com/srmdn/overlap) | Timezone-aware meeting helper — see working hours overlap across global teams |
 | [bundlecheck](https://github.com/srmdn/bundlecheck) | Check the bundle size of any npm package before you install it |
 | [regexplain](https://github.com/srmdn/regexplain) | Paste any regex — get it color-coded and explained in plain English |
