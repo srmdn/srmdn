@@ -1,6 +1,7 @@
 # Said Ramadhan
 
 Building web tools, open-source utilities, and practical AI governance kits. Based in Indonesia 🇮🇩
+Using Claude Code and Codex in my development workflow.
 
 ## Projects
 
