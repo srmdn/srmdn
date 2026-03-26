@@ -8,7 +8,7 @@ Using Claude Code and Codex in my development workflow.
 | Project | Description |
 |---------|-------------|
 | [ai-governance-starter](https://github.com/srmdn/ai-governance-starter) | Reusable starter kit for AI-assisted open source projects: model-agnostic governance, clean human-owned commit history, attribution checks, CI templates, and cleanup runbooks |
-| [hifzlink](https://github.com/srmdn/hifzlink) | Open source Quran murojaah tool to find and compare mutashabihat verses with a simple Go + SQLite stack |
+| [hifzlink](https://github.com/srmdn/hifzlink) | Open source Quran murojaah tool to find and compare mutashabihat verses with a simple Go + SQLite stack — live at [hifz.click](https://hifz.click) |
 | [overlap](https://github.com/srmdn/overlap) | Timezone-aware meeting helper — see working hours overlap across global teams |
 | [bundlecheck](https://github.com/srmdn/bundlecheck) | Check the bundle size of any npm package before you install it |
 | [regexplain](https://github.com/srmdn/regexplain) | Paste any regex — get it color-coded and explained in plain English |
@@ -20,7 +20,7 @@ Using Claude Code and Codex in my development workflow.
 | [chmodhelp](https://github.com/srmdn/chmodhelp) | Paste any Unix permission (755, -rwxr-xr-x) — get a visual grid and plain English breakdown |
 | [headercheck](https://github.com/srmdn/headercheck) | Paste any HTTP response headers — get each one categorized, explained, and decoded |
 | [mimecheck](https://github.com/srmdn/mimecheck) | Search any MIME type or file extension — get description, browser support, and usage examples |
-| [plink](https://github.com/srmdn/plink) | Self-hosted personal link shortener — clean slugs, click analytics, QR codes, single Go binary |
+| [plink](https://github.com/srmdn/plink) | Self-hosted personal link shortener — clean slugs, click analytics, categories, single Go binary — live at [klikgan.com](https://klikgan.com) |
 
 ## Stack
 
