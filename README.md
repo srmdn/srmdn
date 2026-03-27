@@ -7,22 +7,22 @@ Using Claude Code and Codex in my development workflow.
 
 | Project | Description |
 |---------|-------------|
-| [inkwell](https://github.com/srmdn/inkwell) | Lightweight self-hostable CMS — single Go binary, SQLite, ships with a default Astro theme. No Docker required. *(early development)* |
+| [ai-dev-playbook](https://gitlab.com/srmdn/ai-dev-playbook) | Practical guide for working with AI coding assistants - token efficiency, session hygiene, git workflow, planning sessions, and knowing when not to use AI |
 | [ai-governance-starter](https://github.com/srmdn/ai-governance-starter) | Reusable starter kit for AI-assisted open source projects: model-agnostic governance, clean human-owned commit history, attribution checks, CI templates, and cleanup runbooks |
-| [ai-dev-playbook](https://gitlab.com/srmdn/ai-dev-playbook) | Practical guide for working with AI coding assistants — token efficiency, session hygiene, git workflow, planning sessions, and knowing when not to use AI |
-| [hifzlink](https://github.com/srmdn/hifzlink) | Open source Quran murojaah tool to find and compare mutashabihat verses with a simple Go + SQLite stack — live at [hifz.click](https://hifz.click) |
-| [overlap](https://github.com/srmdn/overlap) | Timezone-aware meeting helper — see working hours overlap across global teams |
 | [bundlecheck](https://github.com/srmdn/bundlecheck) | Check the bundle size of any npm package before you install it |
-| [regexplain](https://github.com/srmdn/regexplain) | Paste any regex — get it color-coded and explained in plain English |
-| [devscolors](https://github.com/srmdn/devscolors) | Paste any hex, rgb, or hsl — get color name, Tailwind class, CSS var, contrast ratio, shades & tints |
-| [cronhuman](https://github.com/srmdn/cronhuman) | Paste any cron expression — get a human-readable description and next 5 scheduled run times |
-| [httpstatus](https://github.com/srmdn/httpstatus) | Search any HTTP status code — get explanation, when to use it, common mistakes, and a real-world example |
-| [semvercheck](https://github.com/srmdn/semvercheck) | Paste any npm version range — get a plain English explanation, resolved form, and sample version grid |
-| [jwtdecode](https://github.com/srmdn/jwtdecode) | Paste any JWT token — get decoded header, annotated payload claims, and expiry status |
-| [chmodhelp](https://github.com/srmdn/chmodhelp) | Paste any Unix permission (755, -rwxr-xr-x) — get a visual grid and plain English breakdown |
-| [headercheck](https://github.com/srmdn/headercheck) | Paste any HTTP response headers — get each one categorized, explained, and decoded |
-| [mimecheck](https://github.com/srmdn/mimecheck) | Search any MIME type or file extension — get description, browser support, and usage examples |
-| [plink](https://github.com/srmdn/plink) | Self-hosted personal link shortener — clean slugs, click analytics, categories, single Go binary — live at [klikgan.com](https://klikgan.com) |
+| [chmodhelp](https://github.com/srmdn/chmodhelp) | Paste any Unix permission (755, -rwxr-xr-x) - get a visual grid and plain English breakdown |
+| [cronhuman](https://github.com/srmdn/cronhuman) | Paste any cron expression - get a human-readable description and next 5 scheduled run times |
+| [devscolors](https://github.com/srmdn/devscolors) | Paste any hex, rgb, or hsl - get color name, Tailwind class, CSS var, contrast ratio, shades and tints |
+| [headercheck](https://github.com/srmdn/headercheck) | Paste any HTTP response headers - get each one categorized, explained, and decoded |
+| [hifzlink](https://github.com/srmdn/hifzlink) | Open source Quran murojaah tool to find and compare mutashabihat verses with a simple Go + SQLite stack - live at [hifz.click](https://hifz.click) |
+| [httpstatus](https://github.com/srmdn/httpstatus) | Search any HTTP status code - get explanation, when to use it, common mistakes, and a real-world example |
+| [inkwell](https://github.com/srmdn/inkwell) | Lightweight self-hostable CMS - single Go binary, SQLite, ships with a default Astro theme. No Docker required. *(early development)* |
+| [jwtdecode](https://github.com/srmdn/jwtdecode) | Paste any JWT token - get decoded header, annotated payload claims, and expiry status |
+| [mimecheck](https://github.com/srmdn/mimecheck) | Search any MIME type or file extension - get description, browser support, and usage examples |
+| [overlap](https://github.com/srmdn/overlap) | Timezone-aware meeting helper - see working hours overlap across global teams |
+| [plink](https://github.com/srmdn/plink) | Self-hosted personal link shortener - clean slugs, click analytics, categories, single Go binary - live at [klikgan.com](https://klikgan.com) |
+| [regexplain](https://github.com/srmdn/regexplain) | Paste any regex - get it color-coded and explained in plain English |
+| [semvercheck](https://github.com/srmdn/semvercheck) | Paste any npm version range - get a plain English explanation, resolved form, and sample version grid |
 
 ## Stack
 
