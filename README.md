@@ -16,7 +16,7 @@ Using Claude Code and Codex in my development workflow.
 | [headercheck](https://github.com/srmdn/headercheck) | Paste any HTTP response headers - get each one categorized, explained, and decoded |
 | [hifzlink](https://github.com/srmdn/hifzlink) | Open source Quran murojaah tool to find and compare mutashabihat verses with a simple Go + SQLite stack - live at [hifz.click](https://hifz.click) |
 | [httpstatus](https://github.com/srmdn/httpstatus) | Search any HTTP status code - get explanation, when to use it, common mistakes, and a real-world example |
-| [inkwell](https://github.com/srmdn/inkwell) | Lightweight self-hostable CMS - single Go binary, SQLite, ships with a default Astro theme. No Docker required. *(early development)* |
+| [foliocms](https://github.com/srmdn/foliocms) | Lightweight, self-hosted CMS for Astro: markdown files, SQLite, REST API, single Go binary - live at [foliocms.com](https://foliocms.com) |
 | [jwtdecode](https://github.com/srmdn/jwtdecode) | Paste any JWT token - get decoded header, annotated payload claims, and expiry status |
 | [mimecheck](https://github.com/srmdn/mimecheck) | Search any MIME type or file extension - get description, browser support, and usage examples |
 | [overlap](https://github.com/srmdn/overlap) | Timezone-aware meeting helper - see working hours overlap across global teams |
