@@ -3,12 +3,18 @@
 Building web tools, open-source utilities, AI governance kits, and a lightweight self-hostable CMS. Based in Indonesia 🇮🇩
 Using Claude Code and Codex in my development workflow.
 
+## Profiles
+
+- GitHub (primary): [github.com/srmdn](https://github.com/srmdn)
+- GitLab: [gitlab.com/srmdn](https://gitlab.com/srmdn)
+
 ## Projects
 
 | Project | Description |
 |---------|-------------|
 | [ai-dev-playbook](https://gitlab.com/srmdn/ai-dev-playbook) | Practical guide for working with AI coding assistants - token efficiency, session hygiene, git workflow, planning sessions, and knowing when not to use AI |
 | [ai-governance-starter](https://github.com/srmdn/ai-governance-starter) | Reusable starter kit for AI-assisted open source projects: model-agnostic governance, clean human-owned commit history, attribution checks, CI templates, and cleanup runbooks |
+| [maild](https://github.com/srmdn/maild) | Lightweight outbound email operations platform with queueing, retries, suppression/unsubscribe safety, domain readiness checks, and signed webhook handling |
 | [bundlecheck](https://github.com/srmdn/bundlecheck) | Check the bundle size of any npm package before you install it |
 | [chmodhelp](https://github.com/srmdn/chmodhelp) | Paste any Unix permission (755, -rwxr-xr-x) - get a visual grid and plain English breakdown |
 | [cronhuman](https://github.com/srmdn/cronhuman) | Paste any cron expression - get a human-readable description and next 5 scheduled run times |
