@@ -21,6 +21,7 @@ Using Claude Code and Codex in my development workflow.
 | [devscolors](https://github.com/srmdn/devscolors) | Paste any hex, rgb, or hsl - get color name, Tailwind class, CSS var, contrast ratio, shades and tints |
 | [headercheck](https://github.com/srmdn/headercheck) | Paste any HTTP response headers - get each one categorized, explained, and decoded |
 | [hifzlink](https://github.com/srmdn/hifzlink) | Open source Quran murojaah tool to find and compare mutashabihat verses with a simple Go + SQLite stack - live at [hifz.click](https://hifz.click) |
+| [quran-tracker](https://github.com/srmdn/quran-tracker) | Self-hostable community Quran tracker: daily tilawah and murojaah logs, streaks, monthly leaderboard, khatam tracking, and email notifications - Bun + Hono + SQLite |
 | [httpstatus](https://github.com/srmdn/httpstatus) | Search any HTTP status code - get explanation, when to use it, common mistakes, and a real-world example |
 | [foliocms](https://github.com/srmdn/foliocms) | Lightweight, self-hosted CMS for Astro: markdown files, SQLite, REST API, single Go binary - live at [foliocms.com](https://foliocms.com) |
 | [jwtdecode](https://github.com/srmdn/jwtdecode) | Paste any JWT token - get decoded header, annotated payload claims, and expiry status |
