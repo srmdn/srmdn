@@ -8,6 +8,15 @@ Using Claude Code and Codex in my development workflow.
 - GitHub (primary): [github.com/srmdn](https://github.com/srmdn)
 - GitLab: [gitlab.com/srmdn](https://gitlab.com/srmdn)
 
+## Featured (Pinned on GitHub)
+
+- [maild](https://github.com/srmdn/maild)
+- [foliocms](https://github.com/srmdn/foliocms)
+- [hifzlink](https://github.com/srmdn/hifzlink)
+- [quran-tracker](https://github.com/srmdn/quran-tracker)
+- [plink](https://github.com/srmdn/plink)
+- [ai-governance-starter](https://github.com/srmdn/ai-governance-starter)
+
 ## Projects
 
 | Project | Description |
@@ -48,4 +57,4 @@ Using Claude Code and Codex in my development workflow.
 
 ---
 
-DevOps & sysadmin work lives on [GitLab](https://gitlab.com/srmdn) · [srmdn.com](https://srmdn.com)
+DevOps & sysadmin work lives on [GitLab](https://gitlab.com/srmdn) · [opensource.srmdn.com](https://opensource.srmdn.com)
