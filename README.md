@@ -9,7 +9,7 @@ I build simple web tools and open-source utilities with AI (Claude Code & Codex)
 - **[maild](https://github.com/srmdn/maild)** - Lightweight outbound email platform.
 - **[quran-tracker](https://github.com/srmdn/quran-tracker)** - Daily tilawah and murojaah logs (Bun + Hono).
 
-I keep a full list of smaller tools and utilities at [opensourcesrmdn.com](https://opensourcesrmdn.com).
+I keep a full list of smaller tools and utilities at [opensource.srmdn.com](https://opensource.srmdn.com).
 
 ## Note
 
