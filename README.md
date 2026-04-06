@@ -17,4 +17,6 @@ These repositories are built through iterative discussions with AI. I focus on m
 
 ---
 
-[GitLab](https://gitlab.com/srmdn) · [Blog](https://srmdn.com)
+These tools are free and open source. If one saved you time, I'd appreciate a coffee.
+
+[GitLab](https://gitlab.com/srmdn) · [Blog](https://srmdn.com) · [Ko-fi](https://ko-fi.com/srmdn) · [QRIS](https://qris.zone.id/said)
