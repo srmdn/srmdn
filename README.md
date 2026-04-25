@@ -1,22 +1,22 @@
-# Said Ramadhan
+### Hi, I'm Said
 
-I build simple web tools and open-source utilities with AI (Claude Code & Codex). Based in Indonesia.
+I build simple web tools and open-source utilities. Based in Indonesia.
 
-## Projects
+#### What I'm working on
 
-- **[foliocms](https://github.com/srmdn/foliocms)** - A simple, self-hosted CMS for Astro (Go + SQLite).
-- **[hifzlink](https://github.com/srmdn/hifzlink)** - Quran murojaah tool to find and compare verses.
-- **[maild](https://github.com/srmdn/maild)** - Lightweight outbound email platform.
-- **[quran-tracker](https://github.com/srmdn/quran-tracker)** - Daily tilawah and murojaah logs (Bun + Hono).
+- **[islami.click](https://github.com/srmdn/islami.click)** — Adhkar, doa, shalat times, and more.
+- **[foliocms](https://github.com/srmdn/foliocms)** — Self-hosted CMS for Astro. Go + SQLite.
+- **[hifzlink](https://github.com/srmdn/hifzlink)** — Quran murojaah tool to find and compare verses.
+- **[maild](https://github.com/srmdn/maild)** — Lightweight outbound email platform.
 
-I keep a full list of smaller tools and utilities at [opensource.srmdn.com](https://opensource.srmdn.com).
+More at [opensource.srmdn.com](https://opensource.srmdn.com).
 
-## Note
+#### How I work
 
-These repositories are built through iterative discussions with AI. I focus on making tools that are practical, functional, and easy to use.
+I use agentic coding tools (Claude Code, Codex, OpenCode) as part of my daily workflow. I write the direction, they handle the repetition. The code is mine; the speed is theirs.
 
 ---
 
-These tools are free and open source. If one saved you time, I'd appreciate a coffee.
+If any of these tools saved you time, I'd appreciate a coffee.
 
-[GitLab](https://gitlab.com/srmdn) · [Blog](https://srmdn.com) · [Ko-fi](https://ko-fi.com/srmdn) · [QRIS](https://qris.zone.id/said)
+[Blog](https://srmdn.com) · [Ko-fi](https://ko-fi.com/srmdn) · [QRIS](https://qris.zone.id/said)
