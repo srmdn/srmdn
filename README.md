@@ -11,9 +11,9 @@ I build simple web tools and open-source utilities. Based in Indonesia.
 
 More at [opensource.srmdn.com](https://opensource.srmdn.com).
 
-#### How I work
+#### Tokscale Stats
 
-I use agentic coding tools (Claude Code, Codex, OpenCode) as part of my daily workflow. I write the direction, they handle the repetition. The code is mine; the speed is theirs.
+[![Tokscale Stats](https://tokscale.ai/api/embed/srmdn/svg?view=3d)](https://tokscale.ai/u/srmdn)
 
 ---
 
