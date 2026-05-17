@@ -4,7 +4,7 @@ I build web tools and developer utilities.
 
 #### Tokscale Stats
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/srmdn/svg?view=3d)](https://tokscale.ai/u/srmdn)
+[![Tokscale Stats](https://tokscale.ai/api/embed/srmdn/svg)](https://tokscale.ai/u/srmdn)
 
 ---
 
