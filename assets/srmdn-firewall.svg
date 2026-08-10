@@ -1,0 +1,234 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" role="img" aria-labelledby="title desc">
+  <title id="title">SRMDN.COM terminal animation</title>
+  <desc id="desc">A terminal types SRMDN.COM, then the title bursts into pixel fragments.</desc>
+
+  <defs>
+    <linearGradient id="terminal-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#08131d" />
+      <stop offset="1" stop-color="#050a10" />
+    </linearGradient>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <path d="M0 0H4" stroke="#9be7ff" stroke-opacity=".08" />
+    </pattern>
+    <clipPath id="typing-clip" clipPathUnits="userSpaceOnUse">
+      <rect class="typing-mask" x="270" y="112" width="0" height="64" />
+    </clipPath>
+    <style>
+      text {
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      }
+
+      .window-title,
+      .muted,
+      .prompt,
+      .status {
+        font-size: 12px;
+        letter-spacing: 1px;
+      }
+
+      .window-title,
+      .prompt {
+        fill: #b8cadb;
+      }
+
+      .muted {
+        fill: #608198;
+      }
+
+      .status {
+        fill: #86efac;
+      }
+
+      .title-ghost {
+        fill: none;
+        stroke: #16445a;
+        stroke-width: 2;
+        opacity: .8;
+      }
+
+      .typed-title {
+        fill: #b7f4ff;
+        font-size: 52px;
+        font-weight: 700;
+        letter-spacing: 8px;
+        animation: title-flash 8s linear infinite;
+        transform-box: fill-box;
+        transform-origin: center;
+      }
+
+      .typing-mask {
+        animation: type-title 8s steps(10, end) infinite;
+      }
+
+      .cursor {
+        animation: cursor-blink .7s steps(1, end) infinite, cursor-position 8s steps(10, end) infinite;
+        transform-box: view-box;
+        transform-origin: 270px 144px;
+      }
+
+      .flash {
+        opacity: 0;
+        animation: flash 8s steps(1, end) infinite;
+      }
+
+      .glitch {
+        opacity: 0;
+        animation: glitch 8s steps(1, end) infinite;
+      }
+
+      .pixel {
+        opacity: 0;
+        shape-rendering: crispEdges;
+        transform-box: fill-box;
+        transform-origin: center;
+        animation: pixel-burst 8s linear infinite;
+      }
+
+      @keyframes type-title {
+        0%, 8% {
+          width: 0;
+        }
+        44%, 64% {
+          width: 360px;
+        }
+        68%, 100% {
+          width: 0;
+        }
+      }
+
+      @keyframes title-flash {
+        0%, 64% {
+          opacity: .96;
+          transform: scale(1);
+        }
+        67% {
+          opacity: 1;
+          transform: scale(1.03);
+        }
+        70% {
+          opacity: .55;
+          transform: scale(1.1);
+        }
+        73%, 100% {
+          opacity: 0;
+          transform: scale(1.18);
+        }
+      }
+
+      @keyframes cursor-blink {
+        0%, 45% {
+          opacity: 1;
+        }
+        50%, 100% {
+          opacity: 0;
+        }
+      }
+
+      @keyframes cursor-position {
+        0%, 8% {
+          transform: translateX(0);
+        }
+        44%, 64% {
+          transform: translateX(360px);
+        }
+        68%, 100% {
+          transform: translateX(0);
+        }
+      }
+
+      @keyframes flash {
+        0%, 68%, 100% {
+          opacity: 0;
+        }
+        70% {
+          opacity: .45;
+        }
+        73% {
+          opacity: 0;
+        }
+      }
+
+      @keyframes glitch {
+        0%, 65%, 100% {
+          opacity: 0;
+          transform: translateX(0);
+        }
+        67% {
+          opacity: .75;
+          transform: translateX(-8px);
+        }
+        69% {
+          opacity: .9;
+          transform: translateX(10px);
+        }
+        72% {
+          opacity: 0;
+          transform: translateX(0);
+        }
+      }
+
+      @keyframes pixel-burst {
+        0%, 67% {
+          opacity: 0;
+          transform: translate(0, 0) scale(.35);
+        }
+        70% {
+          opacity: 1;
+          transform: translate(0, 0) scale(1);
+        }
+        86%, 100% {
+          opacity: 0;
+          transform: translate(var(--dx), var(--dy)) scale(.2);
+        }
+      }
+    </style>
+  </defs>
+
+  <rect width="900" height="260" rx="18" fill="#05090f" />
+  <rect x="1" y="1" width="898" height="258" rx="17" fill="none" stroke="#2c4154" />
+  <rect x="1" y="1" width="898" height="36" rx="17" fill="#101b27" />
+  <line x1="1" y1="36" x2="899" y2="36" stroke="#2c4154" />
+
+  <circle cx="28" cy="19" r="5" fill="#fb7185" />
+  <circle cx="46" cy="19" r="5" fill="#fbbf24" />
+  <circle cx="64" cy="19" r="5" fill="#4ade80" />
+  <text x="92" y="24" class="window-title">srmdn.com — terminal</text>
+  <text x="852" y="24" text-anchor="end" class="status">● ONLINE</text>
+
+  <rect x="24" y="52" width="852" height="182" rx="10" fill="url(#terminal-bg)" />
+  <rect x="24" y="52" width="852" height="182" rx="10" fill="url(#scanlines)" />
+
+  <text x="48" y="81" class="prompt">said@srmdn:~$ ./type-domain</text>
+  <text x="48" y="104" class="muted"># shipping a tiny corner of the internet</text>
+  <line x1="48" y1="116" x2="852" y2="116" stroke="#163448" />
+
+  <text x="450" y="165" text-anchor="middle" class="title-ghost">SRMDN.COM</text>
+  <g clip-path="url(#typing-clip)" class="typed-title">
+    <text x="450" y="165" text-anchor="middle">SRMDN.COM</text>
+  </g>
+  <rect x="270" y="113" width="6" height="58" fill="#67e8f9" class="cursor" />
+
+  <g class="glitch" fill="#67e8f9">
+    <rect x="302" y="129" width="92" height="3" />
+    <rect x="512" y="151" width="118" height="3" />
+    <rect x="366" y="177" width="74" height="2" />
+  </g>
+
+  <g>
+    <rect class="pixel" x="446" y="123" width="9" height="9" fill="#67e8f9" style="--dx:-170px;--dy:-58px" />
+    <rect class="pixel" x="410" y="130" width="7" height="7" fill="#22c55e" style="--dx:-120px;--dy:-82px" />
+    <rect class="pixel" x="491" y="133" width="8" height="8" fill="#fbbf24" style="--dx:130px;--dy:-70px" />
+    <rect class="pixel" x="395" y="151" width="6" height="6" fill="#67e8f9" style="--dx:-190px;--dy:12px" />
+    <rect class="pixel" x="507" y="158" width="10" height="10" fill="#22c55e" style="--dx:170px;--dy:25px" />
+    <rect class="pixel" x="428" y="177" width="6" height="6" fill="#fbbf24" style="--dx:-105px;--dy:75px" />
+    <rect class="pixel" x="470" y="180" width="7" height="7" fill="#67e8f9" style="--dx:95px;--dy:92px" />
+    <rect class="pixel" x="548" y="139" width="5" height="5" fill="#fb7185" style="--dx:205px;--dy:-38px" />
+    <rect class="pixel" x="351" y="168" width="5" height="5" fill="#fb7185" style="--dx:-215px;--dy:45px" />
+    <rect class="pixel" x="451" y="145" width="4" height="4" fill="#f8fafc" style="--dx:24px;--dy:-120px" />
+  </g>
+
+  <rect x="24" y="52" width="852" height="182" rx="10" fill="#d9faff" class="flash" />
+
+  <text x="48" y="214" class="muted">STATUS: typing domain...</text>
+  <text x="852" y="214" text-anchor="end" class="status">PRESS ENTER TO VISIT</text>
+</svg>
