@@ -9,7 +9,6 @@ Small software, self-hosted. Go, SQLite, and the occasional WordPress rescue —
 **Self-hosted**
 
 - [plink](https://github.com/srmdn/plink) — link shortener, bio page, and article publisher. Go + SQLite.
-- [foliocms](https://github.com/srmdn/foliocms) — lightweight CMS for Astro: markdown files, SQLite, REST API.
 - [lontong](https://github.com/srmdn/lontong) — server control panel. Go + Caddy + React.
 
 **Quran tooling**
@@ -17,9 +16,11 @@ Small software, self-hosted. Go, SQLite, and the occasional WordPress rescue —
 - [quran-tracker](https://github.com/srmdn/quran-tracker) — community tilawah and murojaah tracker. Bun + Hono.
 - [hifzlink](https://github.com/srmdn/hifzlink) — find and compare mutashabihat verses. Go + SQLite.
 
-**Dev CLI**
+**Dev tools**
 
 - [opcode-switch](https://github.com/srmdn/opcode-switch) — switch between OpenCode Go accounts in one command.
+- [go-linkchecker](https://github.com/srmdn/go-linkchecker) — fast, zero-dependency Markdown link checker for CI.
+- [iloveslop](https://github.com/srmdn/iloveslop) — a rulebook that makes your agent ship the internet's favorite look. On purpose.
 
 ---
 
