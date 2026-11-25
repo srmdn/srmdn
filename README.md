@@ -1,5 +1,3 @@
-### Hi, I'm Said
-
 Small software, self-hosted. Go, SQLite, and the occasional WordPress rescue — notes at [srmdn.com](https://srmdn.com).
 
 ---
