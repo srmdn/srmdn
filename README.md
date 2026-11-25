@@ -1,7 +1,3 @@
-Small software, self-hosted. Go, SQLite, and the occasional WordPress rescue — notes at [srmdn.com](https://srmdn.com).
-
----
-
 **Self-hosted**
 
 - [plink](https://github.com/srmdn/plink) — link shortener, bio page, and article publisher. Go + SQLite.
