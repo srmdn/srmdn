@@ -9,7 +9,7 @@ Small software, self-hosted. Go, SQLite, and the occasional WordPress rescue —
 **Self-hosted**
 
 - [plink](https://github.com/srmdn/plink) — link shortener, bio page, and article publisher. Go + SQLite.
-- [lontong](https://github.com/srmdn/lontong) — server control panel. Go + Caddy + React.
+- [lontong](https://github.com/srmdn/lontong) — server panel project; this repo holds the landing page. Go + Caddy + React.
 
 **Quran tooling**
 
@@ -21,6 +21,7 @@ Small software, self-hosted. Go, SQLite, and the occasional WordPress rescue —
 - [opcode-switch](https://github.com/srmdn/opcode-switch) — switch between OpenCode Go accounts in one command.
 - [go-linkchecker](https://github.com/srmdn/go-linkchecker) — fast, zero-dependency Markdown link checker for CI.
 - [iloveslop](https://github.com/srmdn/iloveslop) — a rulebook that makes your agent ship the internet's favorite look. On purpose.
+- [chromext](https://github.com/srmdn/chromext) — small Chrome extensions with minimal permissions. No tracking.
 
 ---
 
