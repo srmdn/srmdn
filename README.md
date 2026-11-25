@@ -1,5 +1,3 @@
-![SRMDN.COM terminal animation](./assets/srmdn-firewall.svg)
-
 ### Hi, I'm Said
 
 Small software, self-hosted. Go, SQLite, and the occasional WordPress rescue — notes at [srmdn.com](https://srmdn.com).
@@ -13,7 +11,7 @@ Small software, self-hosted. Go, SQLite, and the occasional WordPress rescue —
 
 **Quran tooling**
 
-- [quran-tracker](https://github.com/srmdn/quran-tracker) — community tilawah and murojaah tracker. Bun + Hono.
+- [quran-tracker](https://github.com/srmdn/quran-tracker) — community tilawah and murojaah tracker, rewritten from mgilank's project. Bun + Hono.
 - [hifzlink](https://github.com/srmdn/hifzlink) — find and compare mutashabihat verses. Go + SQLite.
 
 **Dev tools**
